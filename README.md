@@ -1,4 +1,4 @@
-### https://www.linkedin.com/in/claus-michelsen-97756643/
+I can be reached via [LinkedIn](https://www.linkedin.com/in/claus-michelsen-97756643/).
 
 <!--
 **ClausMichelsen/ClausMichelsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
