@@ -30,6 +30,17 @@ I am publishing my solutions to LeetCode problems for educational purposes as we
 - [Course schedule](https://github.com/ClausMichelsen/LeetCode/blob/master/LeetCode/DataStructures/Graph/CourseSchedule.cpp)
 - [Number of islands](https://github.com/ClausMichelsen/LeetCode/blob/master/LeetCode/DataStructures/Graph/NumberOfIslands.cpp)
 - [Pacific Atlantic water flow](https://github.com/ClausMichelsen/LeetCode/blob/master/LeetCode/DataStructures/Graph/PacificAtlanticWaterFlow.cpp)
+## Dynamic Programming
+- [Climbing stairs](https://github.com/ClausMichelsen/LeetCode/blob/master/LeetCode/DynamicProgramming/ClimbingStairs.cpp)
+- [Coin change](https://github.com/ClausMichelsen/LeetCode/blob/master/LeetCode/DynamicProgramming/CoinChange.cpp)
+- [Combination sum IV](https://github.com/ClausMichelsen/LeetCode/blob/master/LeetCode/DynamicProgramming/CombinationSumIV.cpp)
+- [House robber](https://github.com/ClausMichelsen/LeetCode/blob/master/LeetCode/DynamicProgramming/HouseRobber.cpp)
+- [House robber II](https://github.com/ClausMichelsen/LeetCode/blob/master/LeetCode/DynamicProgramming/HouseRobberII.cpp)
+- [Longest common subsequence](https://github.com/ClausMichelsen/LeetCode/blob/master/LeetCode/DynamicProgramming/LongestCommonSubsequence.cpp)
+- [Longest increasing subsequence](https://github.com/ClausMichelsen/LeetCode/blob/master/LeetCode/DynamicProgramming/LongestIncreasingSubsequence.cpp)
+- [Word break](https://github.com/ClausMichelsen/LeetCode/blob/master/LeetCode/DynamicProgramming/WordBreak.cpp)
+
+
 
 <!--
 **ClausMichelsen/ClausMichelsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
