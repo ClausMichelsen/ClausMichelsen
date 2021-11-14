@@ -20,7 +20,16 @@ I am publishing my solutions to LeetCode problems for educational purposes as we
 - [Reorder list](https://github.com/ClausMichelsen/LeetCode/blob/master/LeetCode/DataStructures/Lists/ReorderList.cpp)
 - [Remove nth node from end of list](https://github.com/ClausMichelsen/LeetCode/blob/master/LeetCode/DataStructures/Lists/RemoveNthNodeFromEndOfList.cpp)
 - [Reverse linked list](https://github.com/ClausMichelsen/LeetCode/blob/master/LeetCode/DataStructures/Lists/ReverseLinkedList.cpp)
-
+### Matrix
+- [Rotate image](https://github.com/ClausMichelsen/LeetCode/blob/master/LeetCode/DataStructures/Matrix/RotateImage.cpp)
+- [Set matrix zeroes](https://github.com/ClausMichelsen/LeetCode/blob/master/LeetCode/DataStructures/Matrix/SetMatrixZeroes.cpp)
+- [Spiral order](https://github.com/ClausMichelsen/LeetCode/blob/master/LeetCode/DataStructures/Matrix/SpiralOrder.cpp)
+- [Word search](https://github.com/ClausMichelsen/LeetCode/blob/master/LeetCode/DataStructures/Matrix/WordSearch.cpp)
+### Graph
+- [Clone graph](https://github.com/ClausMichelsen/LeetCode/blob/master/LeetCode/DataStructures/Graph/CloneGraph.cpp)
+- [Course schedule](https://github.com/ClausMichelsen/LeetCode/blob/master/LeetCode/DataStructures/Graph/CourseSchedule.cpp)
+- [Number of islands](https://github.com/ClausMichelsen/LeetCode/blob/master/LeetCode/DataStructures/Graph/NumberOfIslands.cpp)
+- [Pacific Atlantic water flow](https://github.com/ClausMichelsen/LeetCode/blob/master/LeetCode/DataStructures/Graph/PacificAtlanticWaterFlow.cpp)
 
 <!--
 **ClausMichelsen/ClausMichelsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
