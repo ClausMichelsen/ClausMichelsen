@@ -34,10 +34,13 @@ I am publishing my solutions to LeetCode problems for educational purposes as we
 - [Climbing stairs](https://github.com/ClausMichelsen/LeetCode/blob/master/LeetCode/DynamicProgramming/ClimbingStairs.cpp)
 - [Coin change](https://github.com/ClausMichelsen/LeetCode/blob/master/LeetCode/DynamicProgramming/CoinChange.cpp)
 - [Combination sum IV](https://github.com/ClausMichelsen/LeetCode/blob/master/LeetCode/DynamicProgramming/CombinationSumIV.cpp)
+- [Decode ways](https://github.com/ClausMichelsen/LeetCode/blob/master/LeetCode/DynamicProgramming/DecodeWays.cpp)
 - [House robber](https://github.com/ClausMichelsen/LeetCode/blob/master/LeetCode/DynamicProgramming/HouseRobber.cpp)
 - [House robber II](https://github.com/ClausMichelsen/LeetCode/blob/master/LeetCode/DynamicProgramming/HouseRobberII.cpp)
+- [Jump game](https://github.com/ClausMichelsen/LeetCode/blob/master/LeetCode/DynamicProgramming/JumpGame.cpp)
 - [Longest common subsequence](https://github.com/ClausMichelsen/LeetCode/blob/master/LeetCode/DynamicProgramming/LongestCommonSubsequence.cpp)
 - [Longest increasing subsequence](https://github.com/ClausMichelsen/LeetCode/blob/master/LeetCode/DynamicProgramming/LongestIncreasingSubsequence.cpp)
+- [Unique paths](https://github.com/ClausMichelsen/LeetCode/blob/master/LeetCode/DynamicProgramming/UniquePaths.cpp)
 - [Word break](https://github.com/ClausMichelsen/LeetCode/blob/master/LeetCode/DynamicProgramming/WordBreak.cpp)
 
 
