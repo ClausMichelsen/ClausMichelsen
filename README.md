@@ -8,10 +8,13 @@ I am publishing my solutions to LeetCode problems for educational purposes as we
 - [Container with most water](https://github.com/ClausMichelsen/LeetCode/blob/master/LeetCode/Algorithms/ContainerWithMostWater.cpp)
 - [Contains duplicate](https://github.com/ClausMichelsen/LeetCode/blob/master/LeetCode/Algorithms/ContainsDuplicate.cpp)
 - [Find minimum in rotated sorted array](https://github.com/ClausMichelsen/LeetCode/blob/master/LeetCode/Algorithms/FindMinimumInRotatedSortedArray.cpp)
+- [Happy number](https://github.com/ClausMichelsen/LeetCode/blob/master/LeetCode/Algorithms/HappyNumber.cpp)
 - [Maximum product subarray](https://github.com/ClausMichelsen/LeetCode/blob/master/LeetCode/Algorithms/MaximumProductSubarray.cpp)
 - [Max subarray](https://github.com/ClausMichelsen/LeetCode/blob/master/LeetCode/Algorithms/MaxSubarray.cpp)
 - [Two sum](https://github.com/ClausMichelsen/LeetCode/blob/master/LeetCode/Algorithms/TwoSum.cpp)
 - [Three Sum](https://github.com/ClausMichelsen/LeetCode/blob/master/LeetCode/Algorithms/ThreeSum.cpp)
+### Bit Manipulation
+- [Bitwise AND of numbers range](https://github.com/ClausMichelsen/LeetCode/blob/master/LeetCode/Algorithms/BitManipulation/BitwiseAndOfNumbersRange.cpp)
 ## Data Structures
 ### Lists
 - [Linked list cycle](https://github.com/ClausMichelsen/LeetCode/blob/master/LeetCode/DataStructures/Lists/LinkedListCycle.cpp)
@@ -35,11 +38,13 @@ I am publishing my solutions to LeetCode problems for educational purposes as we
 - [Coin change](https://github.com/ClausMichelsen/LeetCode/blob/master/LeetCode/DynamicProgramming/CoinChange.cpp)
 - [Combination sum IV](https://github.com/ClausMichelsen/LeetCode/blob/master/LeetCode/DynamicProgramming/CombinationSumIV.cpp)
 - [Decode ways](https://github.com/ClausMichelsen/LeetCode/blob/master/LeetCode/DynamicProgramming/DecodeWays.cpp)
+- [Delete operation for two strings](https://github.com/ClausMichelsen/LeetCode/blob/master/LeetCode/DynamicProgramming/DeleteOperationForTwoStrings.cpp)
 - [House robber](https://github.com/ClausMichelsen/LeetCode/blob/master/LeetCode/DynamicProgramming/HouseRobber.cpp)
 - [House robber II](https://github.com/ClausMichelsen/LeetCode/blob/master/LeetCode/DynamicProgramming/HouseRobberII.cpp)
 - [Jump game](https://github.com/ClausMichelsen/LeetCode/blob/master/LeetCode/DynamicProgramming/JumpGame.cpp)
 - [Longest common subsequence](https://github.com/ClausMichelsen/LeetCode/blob/master/LeetCode/DynamicProgramming/LongestCommonSubsequence.cpp)
 - [Longest increasing subsequence](https://github.com/ClausMichelsen/LeetCode/blob/master/LeetCode/DynamicProgramming/LongestIncreasingSubsequence.cpp)
+- [Number of longest increasing subsequence](https://github.com/ClausMichelsen/LeetCode/blob/master/LeetCode/DynamicProgramming/NumberOfLongestIncreasingSubsequence.cpp)
 - [Unique paths](https://github.com/ClausMichelsen/LeetCode/blob/master/LeetCode/DynamicProgramming/UniquePaths.cpp)
 - [Word break](https://github.com/ClausMichelsen/LeetCode/blob/master/LeetCode/DynamicProgramming/WordBreak.cpp)
 
