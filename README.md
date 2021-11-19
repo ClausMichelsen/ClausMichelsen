@@ -16,6 +16,11 @@ I am publishing my solutions to LeetCode problems for educational purposes as we
 ### Bit Manipulation
 - [Bitwise AND of numbers range](https://github.com/ClausMichelsen/LeetCode/blob/master/LeetCode/Algorithms/BitManipulation/BitwiseAndOfNumbersRange.cpp)
 ## Data Structures
+### Graphs
+- [Clone graph](https://github.com/ClausMichelsen/LeetCode/blob/master/LeetCode/DataStructures/Graphs/CloneGraph.cpp)
+- [Course schedule](https://github.com/ClausMichelsen/LeetCode/blob/master/LeetCode/DataStructures/Graphs/CourseSchedule.cpp)
+- [Number of islands](https://github.com/ClausMichelsen/LeetCode/blob/master/LeetCode/DataStructures/Graphs/NumberOfIslands.cpp)
+- [Pacific Atlantic water flow](https://github.com/ClausMichelsen/LeetCode/blob/master/LeetCode/DataStructures/Graphs/PacificAtlanticWaterFlow.cpp)
 ### Lists
 - [Linked list cycle](https://github.com/ClausMichelsen/LeetCode/blob/master/LeetCode/DataStructures/Lists/LinkedListCycle.cpp)
 - [Merge two sorted lists](https://github.com/ClausMichelsen/LeetCode/blob/master/LeetCode/DataStructures/Lists/MergeTwoSortedLists.cpp)
@@ -23,16 +28,19 @@ I am publishing my solutions to LeetCode problems for educational purposes as we
 - [Reorder list](https://github.com/ClausMichelsen/LeetCode/blob/master/LeetCode/DataStructures/Lists/ReorderList.cpp)
 - [Remove nth node from end of list](https://github.com/ClausMichelsen/LeetCode/blob/master/LeetCode/DataStructures/Lists/RemoveNthNodeFromEndOfList.cpp)
 - [Reverse linked list](https://github.com/ClausMichelsen/LeetCode/blob/master/LeetCode/DataStructures/Lists/ReverseLinkedList.cpp)
-### Matrix
-- [Rotate image](https://github.com/ClausMichelsen/LeetCode/blob/master/LeetCode/DataStructures/Matrix/RotateImage.cpp)
-- [Set matrix zeroes](https://github.com/ClausMichelsen/LeetCode/blob/master/LeetCode/DataStructures/Matrix/SetMatrixZeroes.cpp)
-- [Spiral order](https://github.com/ClausMichelsen/LeetCode/blob/master/LeetCode/DataStructures/Matrix/SpiralOrder.cpp)
-- [Word search](https://github.com/ClausMichelsen/LeetCode/blob/master/LeetCode/DataStructures/Matrix/WordSearch.cpp)
-### Graph
-- [Clone graph](https://github.com/ClausMichelsen/LeetCode/blob/master/LeetCode/DataStructures/Graph/CloneGraph.cpp)
-- [Course schedule](https://github.com/ClausMichelsen/LeetCode/blob/master/LeetCode/DataStructures/Graph/CourseSchedule.cpp)
-- [Number of islands](https://github.com/ClausMichelsen/LeetCode/blob/master/LeetCode/DataStructures/Graph/NumberOfIslands.cpp)
-- [Pacific Atlantic water flow](https://github.com/ClausMichelsen/LeetCode/blob/master/LeetCode/DataStructures/Graph/PacificAtlanticWaterFlow.cpp)
+### Matrices
+- [Rotate image](https://github.com/ClausMichelsen/LeetCode/blob/master/LeetCode/DataStructures/Matrices/RotateImage.cpp)
+- [Set matrix zeroes](https://github.com/ClausMichelsen/LeetCode/blob/master/LeetCode/DataStructures/Matrices/SetMatrixZeroes.cpp)
+- [Spiral order](https://github.com/ClausMichelsen/LeetCode/blob/master/LeetCode/DataStructures/Matrices/SpiralOrder.cpp)
+- [Word search](https://github.com/ClausMichelsen/LeetCode/blob/master/LeetCode/DataStructures/Matrices/WordSearch.cpp)
+### Trees
+- [Binary tree level order traversal](https://github.com/ClausMichelsen/LeetCode/blob/master/LeetCode/DataStructures/Trees/BinaryTreeLevelOrderTraversal.cpp)
+- [KthSmallest element in a BST](https://github.com/ClausMichelsen/LeetCode/blob/master/LeetCode/DataStructures/Trees/KthSmallestElementInBST.cpp)
+- [Maximum depth of binary tree](https://github.com/ClausMichelsen/LeetCode/blob/master/LeetCode/DataStructures/Trees/MaximumDepthOfBinaryTree.cpp)
+- [Same tree](https://github.com/ClausMichelsen/LeetCode/blob/master/LeetCode/DataStructures/Trees/SameTree.cpp)
+- [Serialize and deserialize binary tree](https://github.com/ClausMichelsen/LeetCode/blob/master/LeetCode/DataStructures/Trees/SerializeAndDeserializeBinaryTree.cpp)
+- [Subtree of another tree](https://github.com/ClausMichelsen/LeetCode/blob/master/LeetCode/DataStructures/Trees/SubtreeOfAnotherTree.cpp)
+- [Validate binary search tree](https://github.com/ClausMichelsen/LeetCode/blob/master/LeetCode/DataStructures/Trees/ValidateBinarySearchTree.cpp)
 ## Dynamic Programming
 - [Climbing stairs](https://github.com/ClausMichelsen/LeetCode/blob/master/LeetCode/DynamicProgramming/ClimbingStairs.cpp)
 - [Coin change](https://github.com/ClausMichelsen/LeetCode/blob/master/LeetCode/DynamicProgramming/CoinChange.cpp)
