@@ -9,18 +9,24 @@ I am publishing my solutions to LeetCode problems for educational purposes as we
 - [Contains duplicate](https://github.com/ClausMichelsen/LeetCode/blob/master/LeetCode/Algorithms/ContainsDuplicate.cpp)
 - [Find minimum in rotated sorted array](https://github.com/ClausMichelsen/LeetCode/blob/master/LeetCode/Algorithms/FindMinimumInRotatedSortedArray.cpp)
 - [Happy number](https://github.com/ClausMichelsen/LeetCode/blob/master/LeetCode/Algorithms/HappyNumber.cpp)
+- [Majority element](https://github.com/ClausMichelsen/LeetCode/blob/master/LeetCode/Algorithms/MajorityElement.cpp)
 - [Maximum product subarray](https://github.com/ClausMichelsen/LeetCode/blob/master/LeetCode/Algorithms/MaximumProductSubarray.cpp)
 - [Max subarray](https://github.com/ClausMichelsen/LeetCode/blob/master/LeetCode/Algorithms/MaxSubarray.cpp)
+- [Sort colors](https://github.com/ClausMichelsen/LeetCode/blob/master/LeetCode/Algorithms/SortColors.cpp)
 - [Two sum](https://github.com/ClausMichelsen/LeetCode/blob/master/LeetCode/Algorithms/TwoSum.cpp)
 - [Three Sum](https://github.com/ClausMichelsen/LeetCode/blob/master/LeetCode/Algorithms/ThreeSum.cpp)
 ### Bit Manipulation
 - [Bitwise AND of numbers range](https://github.com/ClausMichelsen/LeetCode/blob/master/LeetCode/Algorithms/BitManipulation/BitwiseAndOfNumbersRange.cpp)
+- [Single number](https://github.com/ClausMichelsen/LeetCode/blob/master/LeetCode/Algorithms/BitManipulation/SingleNumber.cpp)
 ## Data Structures
 ### Graphs
 - [Clone graph](https://github.com/ClausMichelsen/LeetCode/blob/master/LeetCode/DataStructures/Graphs/CloneGraph.cpp)
 - [Course schedule](https://github.com/ClausMichelsen/LeetCode/blob/master/LeetCode/DataStructures/Graphs/CourseSchedule.cpp)
 - [Number of islands](https://github.com/ClausMichelsen/LeetCode/blob/master/LeetCode/DataStructures/Graphs/NumberOfIslands.cpp)
 - [Pacific Atlantic water flow](https://github.com/ClausMichelsen/LeetCode/blob/master/LeetCode/DataStructures/Graphs/PacificAtlanticWaterFlow.cpp)
+### Intervals
+- [Merge intervals](https://github.com/ClausMichelsen/LeetCode/blob/master/LeetCode/DataStructures/Intervals/MergeIntervals.cpp)
+- [Non-overlapping intervals](https://github.com/ClausMichelsen/LeetCode/blob/master/LeetCode/DataStructures/Intervals/NonOverlappingIntervals.cpp)
 ### Lists
 - [Linked list cycle](https://github.com/ClausMichelsen/LeetCode/blob/master/LeetCode/DataStructures/Lists/LinkedListCycle.cpp)
 - [Merge two sorted lists](https://github.com/ClausMichelsen/LeetCode/blob/master/LeetCode/DataStructures/Lists/MergeTwoSortedLists.cpp)
@@ -31,7 +37,8 @@ I am publishing my solutions to LeetCode problems for educational purposes as we
 ### Matrices
 - [Rotate image](https://github.com/ClausMichelsen/LeetCode/blob/master/LeetCode/DataStructures/Matrices/RotateImage.cpp)
 - [Set matrix zeroes](https://github.com/ClausMichelsen/LeetCode/blob/master/LeetCode/DataStructures/Matrices/SetMatrixZeroes.cpp)
-- [Spiral order](https://github.com/ClausMichelsen/LeetCode/blob/master/LeetCode/DataStructures/Matrices/SpiralOrder.cpp)
+- [Spiral matrix](https://github.com/ClausMichelsen/LeetCode/blob/master/LeetCode/DataStructures/Matrices/SpiralMatrix.cpp)
+- [Spiral matrix II](https://github.com/ClausMichelsen/LeetCode/blob/master/LeetCode/DataStructures/Matrices/SpiralMatrixII.cpp)
 - [Word search](https://github.com/ClausMichelsen/LeetCode/blob/master/LeetCode/DataStructures/Matrices/WordSearch.cpp)
 ### Trees
 - [Binary tree level order traversal](https://github.com/ClausMichelsen/LeetCode/blob/master/LeetCode/DataStructures/Trees/BinaryTreeLevelOrderTraversal.cpp)
